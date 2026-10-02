@@ -1,0 +1,10 @@
+
+Date: 2026-09-11T01:55:55.535Z
+Hash: 9e59b863c33345f7ca2d
+Time: 4847ms
+chunk {es2015-polyfills} es2015-polyfills.js, es2015-polyfills.js.map (es2015-polyfills) 285 kB [initial] [rendered]
+chunk {main} main.js, main.js.map (main) 32.4 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 236 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 21.2 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.45 MB [initial] [rendered]
